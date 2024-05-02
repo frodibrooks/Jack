@@ -1,0 +1,20 @@
+% Mission ¸‹ ~ logfile
+% 1 	Time (sec)
+% 2 	Mission state
+% 3 	% Mission status (mostly for debug)
+1712226108.8164 13 % PlanAxe started
+1712226108.8164 13 % Continue until edge is found
+1712226108.8164 13 % State change from 13 to 20
+1712226108.8246 20 % found line, turn left
+1712226108.8247 20 % State change from 20 to 30
+1712226108.8287 30 % Line detected, that is OK to follow
+1712226108.8287 30 % State change from 30 to 40
+1712226119.5798 40 % State change from 40 to 41
+1712226123.5880 41 % State change from 41 to 45
+1712226125.4247 45 % State change from 45 to 55
+1712226126.1262 55 % State change from 55 to 56
+1712226127.8032 56 % State change from 56 to 7
+1712226130.0188 7 % State change from 7 to 8
+1712226145.3960 8 % State change from 8 to 9
+1712226147.6040 9 % State change from 9 to 47
+1712226147.6122 47 % PlanAxe finished

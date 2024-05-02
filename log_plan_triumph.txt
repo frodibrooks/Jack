@@ -1,0 +1,45 @@
+% Mission À‹ ~ logfile
+% 1 	Time (sec)
+% 2 	Mission state
+% 3 	% Mission status (mostly for debug)
+1712226274.5993 7777 % PlanTriumph started
+1712226275.5994 7777 % State change from 7777 to 7778
+1712226276.1027 7778 % State change from 7778 to 13
+1712226276.1068 13 % Continue until edge is found
+1712226276.1068 13 % State change from 13 to 20
+1712226276.1109 20 % found line, turn left
+1712226276.1109 20 % State change from 20 to 30
+1712226276.1231 30 % Line detected, that is OK to follow
+1712226276.1231 30 % State change from 30 to 40
+1712226289.5091 40 % State change from 40 to 999
+1712226290.5178 999 % State change from 999 to 917
+1712226293.7771 917 % State change from 917 to 907
+1712226317.2143 907 % State change from 907 to 908
+1712226319.4630 908 % State change from 908 to 910
+1712226325.0077 910 % State change from 910 to 918
+1712226342.6493 918 % State change from 918 to 909
+1712226359.2950 909 % State change from 909 to 664
+1712226365.7596 664 % State change from 664 to 665
+1712226365.7637 665 % State change from 665 to 666
+1712226369.1192 666 % State change from 666 to 668
+1712226369.1232 668 % State change from 668 to 667
+1712226372.2579 667 % State change from 667 to 666
+1712226377.6657 666 % State change from 666 to 668
+1712226377.6698 668 % State change from 668 to 667
+1712226380.8803 667 % State change from 667 to 666
+1712226386.3534 666 % State change from 666 to 668
+1712226386.3575 668 % State change from 668 to 667
+1712226389.5695 667 % State change from 667 to 666
+1712226395.0397 666 % State change from 666 to 668
+1712226395.0438 668 % State change from 668 to 667
+1712226398.2477 667 % State change from 667 to 666
+1712226403.7759 666 % State change from 666 to 668
+1712226403.7799 668 % State change from 668 to 667
+1712226407.0413 667 % State change from 667 to 666
+1712226412.5682 666 % State change from 666 to 668
+1712226412.5723 668 % State change from 668 to 667
+1712226412.5764 667 % State change from 667 to 700
+1712226419.0407 700 % State change from 700 to 701
+1712226420.0449 701 % State change from 701 to 702
+1712226423.8763 702 % State change from 702 to 703
+1712226430.4964 703 % PlanTriumph finished

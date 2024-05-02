@@ -1,0 +1,33 @@
+% Mission gaterace logfile
+% 1 	Time (sec)
+% 2 	Mission state
+% 3 	% Mission status (mostly for debug)
+1712225981.5108 1 % Gaterace started
+1712225982.5110 1 % State change from 1 to 100
+1712225982.5150 100 % State change from 100 to 110
+1712225985.7534 110 % State change from 110 to 300
+1712225986.7576 300 % State change from 300 to 3000
+1712225990.2601 3000 % State change from 3000 to 302
+1712225990.2642 302 % State change from 302 to 3021
+1712225991.7655 3021 % State change from 3021 to 3022
+1712225992.2728 3022 % State change from 3022 to 5000
+1712225992.9951 5000 % State change from 5000 to 5001
+1712225993.1981 5001 % State change from 5001 to 500
+1712225993.2022 500 % State change from 500 to 5020
+1712225994.8221 5020 % State change from 5020 to 5021
+1712225994.8262 5021 % State change from 5021 to 600
+1712225996.5632 600 % State change from 600 to 601
+1712225996.5673 601 % State change from 601 to 602
+1712225997.0118 602 % State change from 602 to 603
+1712225997.0158 603 % State change from 603 to 604
+1712225997.5191 604 % State change from 604 to 605
+1712225997.5232 605 % State change from 605 to 800
+1712226001.2807 800 % State change from 800 to 8001
+1712226001.7839 8001 % State change from 8001 to 801
+1712226001.7880 801 % State change from 801 to 8010
+1712226001.8921 8010 % State change from 8010 to 802
+1712226005.1387 802 % State change from 802 to 803
+1712226005.1428 803 % State change from 803 to 8041
+1712226007.1437 8041 % State change from 8041 to 804
+1712226037.6365 804 % State change from 804 to 900
+1712226037.6447 900 % GateRace finished

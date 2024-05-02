@@ -1,0 +1,30 @@
+% Mission ¸‹ ~ logfile
+% 1 	Time (sec)
+% 2 	Mission state
+% 3 	% Mission status (mostly for debug)
+1712226149.6124 13 % PlanSeesaw started
+1712226150.0450 13 % Continue until edge is found
+1712226150.0450 13 % State change from 13 to 20
+1712226150.0491 20 % found line, turn left
+1712226150.0491 20 % State change from 20 to 30
+1712226150.0532 30 % Line detected, that is OK to follow
+1712226150.0532 30 % State change from 30 to 40
+1712226160.5180 40 % State change from 40 to 999
+1712226163.6346 999 % State change from 999 to 917
+1712226166.8696 917 % State change from 917 to 907
+1712226189.6407 907 % State change from 907 to 908
+1712226191.9096 908 % State change from 908 to 910
+1712226197.4376 910 % State change from 910 to 918
+1712226215.2070 918 % State change from 918 to 909
+1712226220.4631 909 % State change from 909 to 800
+1712226225.9507 800 % State change from 800 to 801
+1712226239.8724 801 % State change from 801 to 803
+1712226249.2888 803 % State change from 803 to 804
+1712226253.9524 804 % Line detected, that is OK to follow
+1712226253.9524 804 % State change from 804 to 805
+1712226263.3161 805 % State change from 805 to 806
+1712226263.3202 806 % State change from 806 to 7
+1712226264.2462 7 % State change from 7 to 8
+1712226269.2392 8 % State change from 8 to 9
+1712226270.5908 9 % State change from 9 to 1111
+1712226270.5989 1111 % BPlanSeesaw finished
